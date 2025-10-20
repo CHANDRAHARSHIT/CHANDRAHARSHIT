@@ -1,12 +1,12 @@
-<div align="center"><div align="center"><div align="center"><div align="center">
+<div align="center"><div align="center"><div align="center"><div align="center"><div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Harshit+Chandra;Computer+Science+Engineering;Full+Stack+Developer" alt="Typing SVG" />
 
-</div>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Harshit+Chandra;Computer+Science+Engineering;Full+Stack+Developer" alt="Typing SVG" />
+</div>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Harshit+Chandra;Computer+Science+Engineering;Full+Stack+Developer" alt="Typing SVG" />
 
 
 
-<p align="center"></div>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Harshit+Chandra;Computer+Science+Engineering;Full+Stack+Developer" alt="Typing SVG" />  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Harshit+Chandra;Web+Developer+%F0%9F%9A%80;Gold+Milestone+Student+Ambassador+%E2%AD%90;Frontend+Development+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+<p align="center"></div>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Harshit+Chandra;Computer+Science+Engineering;Full+Stack+Developer" alt="Typing SVG" />
 
   <img src="https://komarev.com/ghpvc/?username=CHANDRAHARSHIT&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile views" />
 
@@ -14,11 +14,11 @@
 
 </p>
 
-<p align="center"></div></div>
+<p align="center"></div>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Harshit+Chandra;Computer+Science+Engineering;Full+Stack+Developer" alt="Typing SVG" />  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Harshit+Chandra;Web+Developer+%F0%9F%9A%80;Gold+Milestone+Student+Ambassador+%E2%AD%90;Frontend+Development+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 
 ---
 
-  <img src="https://komarev.com/ghpvc/?username=CHANDRAHARSHIT&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=CHANDRAHARSHIT&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile views" />
 
 ## 👨‍💻 About Me
 
@@ -30,7 +30,7 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 - 💼 **President** at Unstop Igniter Club
 
-- 🔧 Former Web Developer Intern at **Brown Spark Digital** (Apr 2025 - Sep 2025, Remote - New Zealand)<p align="center"><p align="center">
+- 🔧 Former Web Developer Intern at **Brown Spark Digital** (Apr 2025 - Sep 2025, Remote - New Zealand)<p align="center"></div></div>
 
 - 🏅 **Ninja Dominator** - Coding Ninjas
 
@@ -38,7 +38,7 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 
 
----  <img src="https://komarev.com/ghpvc/?username=CHANDRAHARSHIT&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />  <img src="https://komarev.com/ghpvc/?username=CHANDRAHARSHIT&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+---  <img src="https://komarev.com/ghpvc/?username=CHANDRAHARSHIT&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
 
 
@@ -46,7 +46,7 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 
 
-### Programming Languages  <img src="https://img.shields.io/github/followers/CHANDRAHARSHIT?label=Followers&style=social" alt="GitHub followers" />  <img src="https://img.shields.io/github/followers/CHANDRAHARSHIT?label=Followers&style=social" alt="GitHub followers" />
+### Programming Languages  <img src="https://img.shields.io/github/followers/CHANDRAHARSHIT?label=Followers&style=social" alt="GitHub followers" />
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
@@ -54,7 +54,7 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</p></p>
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</p>
 
 
 
@@ -62,7 +62,7 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)- 🔧 Former Web Developer Intern at **Brown Spark Digital** (Apr 2025 - Sep 2025, Remote - New Zealand)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)- 🔧 Former Web Developer Intern at **Brown Spark Digital** (Apr 2025 - Sep 2025, Remote - New Zealand)<p align="center"><p align="center">
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -70,7 +70,7 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 ### Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)- 📫 **chandraharshit369@gmail.com**------
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)- 📫 **chandraharshit369@gmail.com**---
 
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
@@ -78,7 +78,7 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)---
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)---  <img src="https://komarev.com/ghpvc/?username=CHANDRAHARSHIT&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />  <img src="https://komarev.com/ghpvc/?username=CHANDRAHARSHIT&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
 
 
@@ -86,7 +86,7 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)## 🛠️ Technical Stack## 👨‍💻 About Me## � About Me
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)## 🛠️ Technical Stack## 👨‍💻 About Me
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -94,7 +94,7 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 
 
-### Development Practices### Programming Languages
+### Development Practices### Programming Languages  <img src="https://img.shields.io/github/followers/CHANDRAHARSHIT?label=Followers&style=social" alt="GitHub followers" />  <img src="https://img.shields.io/github/followers/CHANDRAHARSHIT?label=Followers&style=social" alt="GitHub followers" />
 
 ![Debugging](https://img.shields.io/badge/Debugging-%23FF4088.svg?style=for-the-badge&logo=debug&logoColor=white)
 
@@ -102,7 +102,7 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-%2338B2AC.svg?style=for-the-badge&logo=responsive&logoColor=white)
 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)Computer Science Engineering undergraduate at Birla Institute of Applied Sciences with hands-on experience in full-stack development and client-facing web solutions. Focused on building scalable applications using modern tech stacks and contributing to open-source projects.> **Dynamic Web Developer Intern** with expertise in HTML, CSS, and JavaScript. Achieved the **Gold Milestone** as a Student Ambassador. Strong communicator and problem solver, skilled in team collaboration, troubleshooting, and delivering high-quality responsive applications on time.
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)Computer Science Engineering undergraduate at Birla Institute of Applied Sciences with hands-on experience in full-stack development and client-facing web solutions. Focused on building scalable applications using modern tech stacks and contributing to open-source projects.
 
 ---
 
@@ -110,7 +110,7 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 ## 🏆 Achievements
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</p></p>
 
 ### Competitive Programming & Hackathons
 
@@ -118,7 +118,7 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 - **SIH Internal Hackathon Winner** - Secured position among 40+ teams
 
-- **Ninja Dominator** - Coding Ninjas Platform### Frontend Development- 💼 **President** at Unstop Igniter Club- 🔭 Currently working as **Web Developer Intern** at **Brown Spark Digital** (New Zealand)
+- **Ninja Dominator** - Coding Ninjas Platform### Frontend Development- 💼 **President** at Unstop Igniter Club
 
 
 
@@ -126,7 +126,7 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 - **Super Contributor** - Hacktoberfest | Recognized for significant open-source contributions
 
-- **Frontend Challenge Finalist** - IIT Bhubaneswar | Top 90/5000+ in UI Design & Implementation![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)- 🔧 Former Web Developer Intern at **Brown Spark Digital** (Apr 2025 - Sep 2025, Remote - New Zealand)- 🌱 Learning advanced **Frontend Technologies** and **Responsive Design**
+- **Frontend Challenge Finalist** - IIT Bhubaneswar | Top 90/5000+ in UI Design & Implementation![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)- 🔧 Former Web Developer Intern at **Brown Spark Digital** (Apr 2025 - Sep 2025, Remote - New Zealand)
 
 
 
@@ -134,7 +134,7 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 
 
-## 💼 Professional Experience- 🏅 **Ninja Dominator** - Coding Ninjas- 🎯 **IIT Bombay TechFest 2025-26** - Promoted Asia's largest Science & Tech festival
+## 💼 Professional Experience- 🏅 **Ninja Dominator** - Coding Ninjas
 
 
 
@@ -142,13 +142,164 @@ Computer Science Engineering undergraduate at Birla Institute of Applied Science
 
 **Brown Spark Digital** | Remote, New Zealand | Apr 2025 - Sep 2025
 
-- Modified and designed client-facing website components using HTML5, CSS3, and JavaScript![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)- 📫 **chandraharshit369@gmail.com**- 👨‍💼 Former **Club President** at Unstop (2025)
+- Modified and designed client-facing website components using HTML5, CSS3, and JavaScript![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)- 📫 **chandraharshit369@gmail.com**------
 
 - Collaborated directly with clients to gather requirements and implement design specifications
 
 - Debugged and optimized existing codebase for improved performance and cross-browser compatibility![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 - Implemented responsive web designs ensuring seamless user experience across devices
+
+
+
+---
+
+### Database
+
+## 🎯 Leadership & Community
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)---
+
+### President - Unstop Igniter Club | Current
+
+- Leading technical initiatives and coordinating competitive programming events
+
+- Managing club operations and member engagement activities
+
+### DevOps & Tools
+
+### IIT Bombay TechFest Ambassador | 2025-2026
+
+- Representing IIT Bombay's TechFest in institutional capacity![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+- Coordinating technical workshops and festival-related activities
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)## 🛠️ Technical Stack## 👨‍💻 About Me## � About Me
+
+### LET'S UPGRADE Student Ambassador | Mar 2025 - Apr 2025
+
+- Achieved Gold Milestone among 250 ambassadors![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+- Resolved critical front-end dashboard issues impacting user experience
+
+- Organized technical peer-learning sessions and community engagement initiatives![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+---
+
+
+
+## 📊 GitHub Statistics### Development Practices### Programming Languages
+
+
+
+<p align="center">![Debugging](https://img.shields.io/badge/Debugging-%23FF4088.svg?style=for-the-badge&logo=debug&logoColor=white)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=CHANDRAHARSHIT&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" height="180" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANDRAHARSHIT&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" height="180" />![RESTful APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+</p>
+
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-%2338B2AC.svg?style=for-the-badge&logo=responsive&logoColor=white)
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDRAHARSHIT&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)Computer Science Engineering undergraduate at Birla Institute of Applied Sciences with hands-on experience in full-stack development and client-facing web solutions. Focused on building scalable applications using modern tech stacks and contributing to open-source projects.> **Dynamic Web Developer Intern** with expertise in HTML, CSS, and JavaScript. Achieved the **Gold Milestone** as a Student Ambassador. Strong communicator and problem solver, skilled in team collaboration, troubleshooting, and delivering high-quality responsive applications on time.
+
+</p>
+
+---
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHANDRAHARSHIT&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" alt="Contribution Graph" />![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</p>
+
+## 🏆 Achievements
+
+<p align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=CHANDRAHARSHIT&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</p>
+
+### Competitive Programming & Hackathons
+
+---
+
+- **Frontend Battle Finalist** - IIT Bhubaneswar | Top 90 among 5000+ participants | Certificate of Merit
+
+## 🎓 Education
+
+- **SIH Internal Hackathon Winner** - Secured position among 40+ teams
+
+### B.Tech in Computer Science Engineering
+
+**Birla Institute of Applied Sciences** | Expected: Aug 2028- **Ninja Dominator** - Coding Ninjas Platform### Frontend Development- 💼 **President** at Unstop Igniter Club- 🔭 Currently working as **Web Developer Intern** at **Brown Spark Digital** (New Zealand)
+
+- SGPA: 7.3
+
+- Top 10% of class
+
+
+
+### Senior Secondary Education### Open Source & Recognition![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**St. Joseph's Convent School**
+
+- Class XII (Science, Non-Medical): CGPA 8.1 | Apr 2024- **Super Contributor** - Hacktoberfest | Recognized for significant open-source contributions
+
+- Class X: CGPA 10 | Apr 2022
+
+- Head Boy - Academic Session 2023-24- **Frontend Challenge Finalist** - IIT Bhubaneswar | Top 90/5000+ in UI Design & Implementation![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)- 🔧 Former Web Developer Intern at **Brown Spark Digital** (Apr 2025 - Sep 2025, Remote - New Zealand)- 🌱 Learning advanced **Frontend Technologies** and **Responsive Design**
+
+
+
+---
+
+
+
+## 📫 Connect---![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/harshit-chandra-569504325">
+
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />## 💼 Professional Experience- 🏅 **Ninja Dominator** - Coding Ninjas- 🎯 **IIT Bombay TechFest 2025-26** - Promoted Asia's largest Science & Tech festival
+
+  </a>
+
+  <a href="mailto:chandraharshit369@gmail.com">
+
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+  </a>### Web Developer Intern### Backend Development
+
+  <a href="https://www.codingninjas.com/studio/profile/CHANDRAHARSHIT">
+
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-FF6600?style=for-the-badge&logo=code&logoColor=white" alt="Coding Ninjas" />**Brown Spark Digital** | Remote, New Zealand | Apr 2025 - Sep 2025
+
+  </a>
+
+</p>- Modified and designed client-facing website components using HTML5, CSS3, and JavaScript![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)- 📫 **chandraharshit369@gmail.com**- 👨‍💼 Former **Club President** at Unstop (2025)
+
+
+
+---- Collaborated directly with clients to gather requirements and implement design specifications
+
+
+
+<p align="center">- Debugged and optimized existing codebase for improved performance and cross-browser compatibility![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+
+</p>- Implemented responsive web designs ensuring seamless user experience across devices
+
 
 - 🏆 **LET'S UPGRADE Student Ambassador** - Achieved Gold Milestone among 250 ambassadors
 
