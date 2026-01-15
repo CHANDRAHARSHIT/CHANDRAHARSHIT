@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Namaste+World!+%F0%9F%99%8F;I'm+Harshit+Chandra;Software+Developer;Google+Student+Ambassador;Hacktoberfest+Global+Super+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Namaste+World!+%F0%9F%99%8F;I'm+Harshit+Chandra;Software+Developer;Google+Student+Ambassador;Hacktoberfest+Global+Super+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,17 +23,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am a **Computer Science Engineering Undergraduate** at **Birla Institute of Applied Sciences** (Class of 2028), driven by the art of building scalable applications and fostering tech communities. My journey blends deep technical expertise in **Software Development** with impactful leadership roles at a global scale.
 
-*   👀 **Focus**: Architecting high-performance web solutions, CI/CD pipelines, and Generative AI.
-*   🚀 **Impact**: Scaled web apps to handle 10k+ daily hits & reduced deployment times by 40%.
-*   🌱 **Learning**: Advanced Large Language Model (LLM) architectures & System Design.
+*   **Focus**: Architecting high-performance web solutions, CI/CD pipelines, and Generative AI.
+*   **Impact**: Scaled web apps to handle 10k+ daily hits & reduced deployment times by 40%.
+*   **Learning**: Advanced Large Language Model (LLM) architectures & System Design.
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 <div align="center">
 
@@ -45,7 +45,7 @@ I am a **Computer Science Engineering Undergraduate** at **Birla Institute of Ap
 
 ---
 
-### 🚀 Professional Experience & Leadership
+### Professional Experience & Leadership
 
 | Role | Organization | Impact |
 | :--- | :--- | :--- |
@@ -56,30 +56,28 @@ I am a **Computer Science Engineering Undergraduate** at **Birla Institute of Ap
 
 ---
 
-### 🏆 Hall of Fame
+### Hall of Fame
 
-*   🔥 **Hacktoberfest L6 Super Contributor**: Ranked in Top 10k globally for open-source contributions.
-*   🧠 **Ninja Dominator (L7)**: Achieved Level 7 status on Coding Ninjas platform.
-*   ⚔️ **Frontend Battle Finalist**: Top 90 among 5000+ participants at **IIT Bhubaneswar**.
-*   💡 **SIH Internal Winner**: Secured top position among 40+ teams in Smart India Hackathon internal round.
-*   📈 **Codeforces**: Max Rating **1164**.
+*   **Hacktoberfest L6 Super Contributor**: Ranked in Top 10k globally for open-source contributions.
+*   **Ninja Dominator (L7)**: Achieved Level 7 status on Coding Ninjas platform.
+*   **Frontend Battle Finalist**: Top 90 among 5000+ participants at **IIT Bhubaneswar**.
+*   **SIH Internal Winner**: Secured top position among 40+ teams in Smart India Hackathon internal round.
+*   **Codeforces**: Max Rating **1164**.
 
 ---
 
-### ⚡ GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHANDRAHARSHIT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Harshit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHANDRAHARSHIT&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Harshit's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANDRAHARSHIT&theme=tokyonight&hide_border=true" alt="Harshit's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANDRAHARSHIT&theme=dark&hide_border=true" alt="Harshit's Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDRAHARSHIT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDRAHARSHIT&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
   <p>Let's build scalable innovations together!</p>
-  <sub>Visitor Count</sub><br>
-  <img src="https://profile-counter.glitch.me/CHANDRAHARSHIT/count.svg" alt="visitor count" />
 </div>
